@@ -1,0 +1,22 @@
+About Dataset
+This dataset provides a comprehensive record of gold prices in five-minutes intervals from 2010 to 2023. It includes the following features:
+
+time: Timestamp of the recorded price
+open: Opening price
+high: Highest price
+low: Lowest price
+close: Closing price
+rsi14: Relative Strength Index (RSI) calculated over a 14-day period
+sma14: Simple Moving Average (SMA) calculated over a 14-day period
+
+This dataset is valuable for various data science projects, including:
+
+Time series analysis: Forecasting future gold prices, identifying trends and seasonality.
+Technical analysis: Evaluating trading strategies using technical indicators like RSI and SMA.
+Machine learning: Building models to predict price movements or classify market conditions.
+
+Sharing this dataset aims to:
+
+Facilitate research: Empower data scientists and enthusiasts to explore gold price dynamics.
+Encourage collaboration: Foster knowledge sharing and development of innovative analytical techniques.
+Enhance financial understanding: Provide valuable insights into gold market behavior.
